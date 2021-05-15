@@ -10,13 +10,10 @@ fi
 checkroot
 
 apt -y install neofetch
-clear
 echo "----------------------------------------------"
 echo ""
 apt -y install php
-clear
 echo "----------------------------------------------"
 echo ""
 
 sleep 4
-clear
