@@ -47,3 +47,7 @@ $ sudo bash linux-installer.sh
 $ python3 -m pip install -r requirments.txt
 $ sudo python3 Storm-Breaker.py
 ```
+
+### Docker container available
+$ docker build -t storm-breaker .
+$ docker run -it storm-breaker
