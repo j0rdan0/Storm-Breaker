@@ -1,1 +1,17 @@
-...
+[Sat Sep 11 02:00:47 2021] [::1]:58411 [200]: /
+[Sat Sep 11 02:00:47 2021] [::1]:58414 [200]: /location.js
+[Sat Sep 11 02:00:47 2021] [::1]:58415 [200]: /loc.js
+[Sat Sep 11 02:00:47 2021] [::1]:58416 [200]: /client.min.js
+[Sat Sep 11 02:00:48 2021] [::1]:58418 [200]: /info.php
+[Sat Sep 11 02:01:08 2021] [::1]:58420 [200]: /error.php
+[Sat Sep 11 02:01:09 2021] [::1]:58421 [200]: /
+[Sat Sep 11 02:01:10 2021] [::1]:58422 [200]: /loc.js
+[Sat Sep 11 02:01:10 2021] [::1]:58423 [200]: /client.min.js
+[Sat Sep 11 02:01:10 2021] [::1]:58424 [200]: /location.js
+[Sat Sep 11 02:01:10 2021] [::1]:58425 [200]: /info.php
+[Sat Sep 11 02:01:13 2021] [::1]:58426 [200]: /error.php
+[Sat Sep 11 02:01:43 2021] [::1]:58432 [200]: /result.php
+PHP 7.3.24-(to be removed in future macOS) Development Server started at Sat Sep 11 02:00:39 2021
+Listening on http://localhost:8767
+Document root is /Users/j0rdan0/Pentest-tools/intelligence-gathering/Storm-Breaker/getloc/weather
+Press Ctrl-C to quit.

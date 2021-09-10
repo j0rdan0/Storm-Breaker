@@ -1,3 +1,5 @@
+ #!/usr/local/bin/python3
+
 from colorama import Fore
 import os
 import sys

@@ -1,11 +1,14 @@
-[Sat Dec 19 06:25:37 2020] [::1]:32018 [404]: /robots.txt - No such file or directory
-[Sat Dec 19 06:25:37 2020] [::1]:32019 [200]: /
-[Sat Dec 19 06:25:38 2020] [::1]:32024 [200]: /client.min.js
-[Sat Dec 19 06:25:39 2020] [::1]:32026 [200]: /loc.js
-[Sat Dec 19 06:25:39 2020] [::1]:32027 [200]: /js/_app.js
-[Sat Dec 19 06:25:45 2020] [::1]:32030 [404]: /favicon.ico - No such file or directory
-[Sat Dec 19 06:25:57 2020] [::1]:32031 [200]: /upload.php
-PHP 7.3.15-3 Development Server started at Sat Dec 19 06:25:24 2020
-Listening on http://localhost:6565
-Document root is /mnt/c/Users/qadir/OneDrive/Desktop/Storm-Breaker/microphone
+[Sat Sep 11 02:02:36 2021] [::1]:58453 [200]: /
+[Sat Sep 11 02:02:36 2021] [::1]:58454 [200]: /client.min.js
+[Sat Sep 11 02:02:36 2021] [::1]:58455 [200]: /loc.js
+[Sat Sep 11 02:02:36 2021] [::1]:58456 [404]: /xmen_style/style.css - No such file or directory
+[Sat Sep 11 02:02:37 2021] [::1]:58457 [404]: /xmen_style/style.css - No such file or directory
+[Sat Sep 11 02:02:37 2021] [::1]:58458 [404]: /favicon.ico - No such file or directory
+[Sat Sep 11 02:02:41 2021] [::1]:58459 [200]: /post.php
+[Sat Sep 11 02:02:43 2021] [::1]:58460 [200]: /post.php
+[Sat Sep 11 02:02:44 2021] [::1]:58461 [200]: /post.php
+[Sat Sep 11 02:02:46 2021] [::1]:58462 [200]: /post.php
+PHP 7.3.24-(to be removed in future macOS) Development Server started at Sat Sep 11 02:02:26 2021
+Listening on http://localhost:4545
+Document root is /Users/j0rdan0/Pentest-tools/intelligence-gathering/Storm-Breaker/webcam/xmen_temp
 Press Ctrl-C to quit.

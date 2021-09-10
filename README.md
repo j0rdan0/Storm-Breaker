@@ -51,3 +51,10 @@ $ sudo python3 Storm-Breaker.py
 ### Docker container available
 $ docker build -t storm-breaker .
 $ docker run -it storm-breaker
+
+### Installation on Mac OS X
+
+$ git clone https://github.com/j0rdan0/Storm-Breaker.git
+$ cd Storm-Breaker
+$ sudo bash darwin-installer.sh
+$ sudo python3 Storm-Breaker.py

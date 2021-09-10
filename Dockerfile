@@ -2,6 +2,7 @@ FROM kalilinux/kali-rolling
 
 ENV TERM=linux
 RUN apt -y update && apt -y install git python3 sudo python3-pip
+WORKDIR /opt
 RUN git clone https://github.com/j0rdan0/Storm-Breaker.git
 
 WORKDIR Storm-Breaker
