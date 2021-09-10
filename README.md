@@ -58,3 +58,8 @@ $ git clone https://github.com/j0rdan0/Storm-Breaker.git
 $ cd Storm-Breaker
 $ sudo bash darwin-installer.sh
 $ sudo python3 Storm-Breaker.py
+
+### TODO:
+
+$ Add more templates
+$ Integrate ngrok URL with FDL API
